@@ -7,7 +7,4 @@
 
 - Other Info:
   - Econometrics and Quantitative Economics Student at the University of Illinois
-  - Graduating in May 2022 with a degree in Econometrics and a Minor in Business
-  - I work with web development and IT Support
-  
-- I'm down for working together on anything you'd like, I'm always up for a challenge
+  - Graduated in May 2022 with a degree in Econometrics and a Minor in Business
